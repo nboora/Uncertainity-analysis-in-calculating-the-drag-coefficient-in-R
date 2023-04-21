@@ -49,19 +49,19 @@ TYPES OF ERROR AND SYSTEMATIC ERROR ESTIMATIONS:
 
 The results from both the approaches:
 
-Taylor Series Method
+  Taylor Series Method
 
-  UCD [95%] - 0.3133 
-  Mean (CD) - 1.508 
-  cd_min - 1.194 
-  cd_max - 1.821 
-  Relative Uncertainty [95%] - 20.7%
+    UCD [95%] - 0.3133 
+    Mean (CD) - 1.508 
+    cd_min - 1.194 
+    cd_max - 1.821 
+    Relative Uncertainty [95%] - 20.7%
 
-Monte Carlo Method
+  Monte Carlo Method
 
-  UCD [95%] - 0.3128
-  Mean (CD) - 1.519
-  cd_min - 1.239
-  cd_max - 1.865
-  Relative Uncertainty [95%] - 20.7%
+    UCD [95%] - 0.3128
+    Mean (CD) - 1.519
+    cd_min - 1.239
+    cd_max - 1.865
+    Relative Uncertainty [95%] - 20.7%
     
